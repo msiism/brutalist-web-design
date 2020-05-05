@@ -1,6 +1,6 @@
 Code:
 
-* Make <form> conform to HTML 4.01 Strict
+* Make <form> conform to HTML 4.01 Strict [DONE]
 * Add new meta description
 * Add divs to denote ARIA roles
 
