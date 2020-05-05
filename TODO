@@ -1,3 +1,11 @@
+Code:
+
 * Make <form> conform to HTML 4.01 Strict
 * Add new meta description
 * Add divs to denote ARIA roles
+
+Content:
+
+* Add info on formatting links
+  * cf. NNG
+  * Use trailing slash in URLs
