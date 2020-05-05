@@ -1,5 +1,4 @@
-# msi's yet-to-be-named web design principles
+# msi's guide to reasonable web design
 
-This is the source for msi's yet-to-be-named web design principles, a fork of
-David Copelands [Guidelines for Brutalist Web
-Design](https://brutalist-web.design).
+This is the source for msi's guide to reasonable web design, a fork of David
+Copelands [Guidelines for Brutalist Web Design](https://brutalist-web.design).
