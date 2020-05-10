@@ -16,6 +16,11 @@ Content:
 
 * Elaborate on problems with pages that require lots of scrolling and how to
   solve or avoid that.
+  * Use sub-pages where due (e.g., blogs).
+    * Cover use of the “more” tag here.
+  * Provide a TOC (consisting of in-page links) for long scrolls.
+  * Provide “back to top” links for people using crippled interfaces (e.g.,
+    smart phones)
 
 * Replace “click talk“ with something more general
 
