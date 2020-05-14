@@ -33,3 +33,6 @@ Content:
 * Add: Make site usable without CSS
   * Discuss using pre-CSS-era styling on occasion
 
+* Add section on text-only browsers
+  * In short: They have their own weird ways of presenting HTML documents that
+    you generally can't do anything about.
