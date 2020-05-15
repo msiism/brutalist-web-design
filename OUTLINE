@@ -1,13 +1,54 @@
+General remarks on what the Web is and what websites are for/supposed to be
 
+General remarks on site structure and page layout(?)
 
-Interactive elements
+40. Formatting text:
+
+  40.1 [Block-level things]
+  
+    * Use paragraphs liberally
+
+  40.2 [Inline-level things]
+
+    * Emphasis
+      * bold and italic (<em> and <strong>)
+        * elaborate on differenc ein purpose beyond “emphasis” and “strong
+          emphasis”
+      * Never underline text that is not a hyperlink. It's best to simply erase
+        the <u> tag from your HTML vocabulary. It's been officially deprecated
+        for [<time range>], aynway:
+      * https://www.w3.org/TR/html401/present/graphics.html#h-15.2.1
+
+    * The abiguity of italics and bold text
+      * <i>, <b> vs. <em>,<strong> in the wild
+      * By conventiontitles of individual works are also italicized, i.e. won't
+        be visually different from normal emphasis (unless you make it
+        different, which is not really a good idea).
+      * typogr. conventions in some tech books use bold text(?) to introduce
+        special terms
+        * cf. C-Book, TSPL
+
+50. Interactive elements
 
   * Name them.
   * Explain what to use when.
 
-  1. Formatting hyperlinks
-    1.1 Sane URLs
-      * Trailing slashes
-    1.2. Expressive link text
-    1.3. A visual appearance aiding readability and orientation
-  2. Forms
+  50.1. Formatting hyperlinks
+    50.1.1 General remarks
+      50.1.1.1 Sane URLs
+        * Trailing slashes
+      50.1.1.2. Expressive link text
+      50.1.1.3. A visual appearance aiding readability and orientation
+        * Discuss visual using visual indicators for off-site links (cf.
+          Wikipedia)
+    50.1.2 In-page links
+      * general remarks
+      * in-page navigation links
+      * special case: making footnotes
+
+  50.2. Forms
+
+
+70. Styling with Cascading Style Sheets (CSS)
+  * explain using 'display:none;' to hide things in the CSS version that should
+    be there in the non-CSS version (<hr> example)
