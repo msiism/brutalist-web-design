@@ -32,15 +32,15 @@ h2 {
 }
 
 h3 {
-  font-size:1.67em;
+  font-size:1.67em; /* Maybe use 1.83em instead. */
 }
 
 h4 {
-  font-size:1.33em;
+  font-size:1.5em;
 }
 
 h5 {
-  font-size:1em;
+  font-size:1.17em;
 }
 
 a:link {
