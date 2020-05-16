@@ -39,3 +39,8 @@ Content:
 * Add section on text-only browsers
   * In short: They have their own weird ways of presenting HTML documents that
     you generally can't do anything about.
+
+* Add appendix: Useful Web design resources
+  * HTML 4.01 specification
+  * MDN
+  * The Truth about HTML5(?)
