@@ -23,6 +23,26 @@ h1, h2, h3, h4, h5 {
 /*  color:#663333;*/
 }
 
+h1 {
+  font-size:3em;
+}
+
+h2 {
+  font-size:2.33em;
+}
+
+h3 {
+  font-size:1.67em;
+}
+
+h4 {
+  font-size:1.33em;
+}
+
+h5 {
+  font-size:1em;
+}
+
 a:link {
   color:#0033cc;
 }
