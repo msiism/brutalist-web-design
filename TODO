@@ -36,6 +36,10 @@ Content:
 
 * Add appendix: The traditional “web-safe” 216-color palette
 
+* Add appendix: Reasonable Web design in a nutshell
+  * a list-style quick reference
+  * mention that in the introduction
+
 * Add section on text-only browsers
   * In short: They have their own weird ways of presenting HTML documents that
     you generally can't do anything about.
