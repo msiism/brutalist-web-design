@@ -23,6 +23,18 @@ h1, h2, h3, h4, h5 {
 /*  color:#663333;*/
 }
 
+a:link {
+  color:#0033cc;
+}
+
+a:visited {
+  color:#555555;
+}
+
+a:focus {}
+a:hover {}
+a:active {}
+
 .wrapper {
   max-width:40em;
   margin:0 auto;
