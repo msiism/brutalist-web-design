@@ -18,6 +18,10 @@ Content:
 * Elaborate on author's notion of reasonable web design as the basis of this
   guide
 
+* Rename “View content by scrolling”
+  * something along the lines of single-page vs. multipage or (sub-)pages vs.
+    scrolling
+
 * Elaborate on problems with pages that require lots of scrolling and how to
   solve or avoid that.
   * Use sub-pages where due (e.g., blogs).
