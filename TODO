@@ -38,7 +38,7 @@ Content:
   * cf. NNG
   * Use trailing slash in URLs
 
-* Add: Make site usable without CSS
+* Add: Make site usable without CSS, or rather: Start without CSS/styling
   * Discuss using pre-CSS-era styling on occasion
 
 * Add appendix: The traditional “web-safe” 216-color palette
